@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T12:04:55 IST" name="Default suite" finished-at="2023-07-17T12:05:06 IST" duration-ms="10871">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T12:04:55 IST" name="Default test" finished-at="2023-07-17T12:05:06 IST" duration-ms="10871">
+      <class name="testScenarios.TestMethodgoogle">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:04:55 IST" name="beforeTest" finished-at="2023-07-17T12:04:59 IST" duration-ms="3892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyLandingPagegoogle()[pri:0, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:04:59 IST" name="verifyLandingPagegoogle" finished-at="2023-07-17T12:04:59 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPagegoogle -->
+        <test-method signature="searchgoogleOperation()[pri:1, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:04:59 IST" name="searchgoogleOperation" finished-at="2023-07-17T12:05:00 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchgoogleOperation -->
+        <test-method signature="verifyandAcessGuviLogin()[pri:2, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:05:00 IST" name="verifyandAcessGuviLogin" finished-at="2023-07-17T12:05:06 IST" duration-ms="5722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyandAcessGuviLogin -->
+        <test-method signature="verifyLandingPageguvi()[pri:3, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:05:06 IST" name="verifyLandingPageguvi" finished-at="2023-07-17T12:05:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageguvi -->
+        <test-method signature="LoginGuviPage()[pri:4, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:05:06 IST" name="LoginGuviPage" finished-at="2023-07-17T12:05:06 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginGuviPage -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScenarios.TestMethodgoogle@2b71e916]" started-at="2023-07-17T12:05:06 IST" name="afterTest" finished-at="2023-07-17T12:05:06 IST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testScenarios.TestMethodgoogle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
